@@ -58,7 +58,7 @@
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
@@ -169,7 +169,6 @@
 <text x="53.213" y="8.255" size="0.889" layer="21" rot="R180">DIGITAL PWM</text>
 <text x="35.306" y="10.795" size="1.27" layer="21">APPRINO</text>
 <text x="23.1775" y="34.544" size="0.5842" layer="21">GND</text>
-<wire x1="0.762" y1="38.608" x2="60.96" y2="38.608" width="0" layer="20"/>
 <wire x1="60.96" y1="38.608" x2="64.008" y2="35.56" width="0" layer="20" curve="-90"/>
 <wire x1="64.008" y1="35.56" x2="64.008" y2="2.54" width="0" layer="20"/>
 <wire x1="64.008" y1="2.54" x2="60.96" y2="-0.508" width="0" layer="20" curve="-90"/>

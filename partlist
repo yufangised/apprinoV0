@@ -1,0 +1,74 @@
+Partlist
+
+Exported from apprino.brd at 11/28/12 11:15 AM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part      Value            Package            Library   Position (inch)       Orientation
+
+ATMEGA328 ATMEGA168        TQFP32-08          SparkFun  (1.905 0.75)          R270
+FT232     FT232RLSSOP      SSOP28DB           SparkFun  (1.35 0.75)           R0
+IC1       LMV358MMX        MSOP08             linear    (0.8 0.85)            R0
+IC2       NCP1117ST50T3G   SOT223             linear    (0.575 0.225)         R180
+T1        FDN340P          SOT-23             zetex     (1.005 0.63)          R90
+USB       USB-MICROB       USB-MICROB         SparkFun  (0.07 1.275)          R270
+Y1        RESONATORSMD     RESONATOR-SMD      SparkFun  (1.8 1.025)           R180
+S1                         TACTILE_SWITCH_SMD SparkFun  (0.4 1.375)           R0
+D3        M7               SMB                diode     (0.575 0.56)          R90
+F1        500mA            L1812              rcl       (0.4 1.175)           R0
+
+
+R1        1k               M0805              rcl       (2 1.15)              R180
+R2        1k               M0805              rcl       (2 1.025)             R0
+RA1       1KX4             R4ARRAY            appessory (0.575 1.025)         R180
+RA2       10X4             R4ARRAY            appessory (1.005 0.85)          R90
+
+
+C1        10u              SMC_B              rcl       (0.8 0.63)            R0
+C2        10u              SMC_B              rcl       (0.8 0.49)            R180
+C5        100n             C0805              rcl       (0.999 1.025)         R180
+C6        100n             C0805              rcl       (0.8 1.025)           R0
+C7        100n             C0805              rcl       (2 0.45)              R0
+C8        100n             C0805              rcl       (1.825 0.45)          R0
+C9        100n             C0805              rcl       (1.45 1.15)           R180
+C10       100n             C0805              rcl       (1.25 0.45)           R0
+C11       100n             C0805              rcl       (1.45 1.025)          R180
+C12       100n             C0805              rcl       (1.25 1.025)          R0
+
+
+L                          CHIP-LED0805       led       (0.669 1.132)         R270
+ON                         CHIP-LED0805       led       (0.669 1.218)         R270
+RX                         CHIP-LED0805       led       (0.575 0.9)           R90
+TX                         CHIP-LED0805       led       (0.575 0.8)           R90
+
+
+//ICSP      AVR_SPI_PRG_6PTH 2X3              SparkFun  (0.2 0.65)            R90
+J                          JST-2-SMD          SparkFun  (0.155 0.2)           R90
+RP        REDPARK_HEADER   REDPARK_HEADER     appessory (0.4 0.75)            R0
+A0        SH3              SH3                appessory (2.45 0.25)           R270
+A1        SH3              SH3                appessory (2.45 0.45)           R270
+A2        SH3              SH3                appessory (2.45 0.65)           R270
+A3        SH3              SH3                appessory (2.45 0.85)           R270
+A4        SH3              SH3                appessory (2.45 1.05)           R270
+A5        SH3              SH3                appessory (2.45 1.25)           R270
+D2        SH3              SH3                appessory (2.05 1.45)           R0
+D4        SH3              SH3                appessory (1.85 1.45)           R0
+D7        SH3              SH3                appessory (1.65 1.45)           R0
+D8        SH3              SH3                appessory (1.45 1.45)           R0
+D12       SH3              SH3                appessory (1.25 1.45)           R0
+D13       SH3              SH3                appessory (1.05 1.45)           R0
+P3        SH3              SH3                appessory (2.05 0.05)           R180
+P5        SH3              SH3                appessory (1.85 0.05)           R180
+P6        SH3              SH3                appessory (1.65 0.05)           R180
+P9        SH3              SH3                appessory (1.45 0.05)           R180
+P10       SH3              SH3                appessory (1.25 0.05)           R180
+P11       SH3              SH3                appessory (1.05 0.05)           R180
+POWER     SH3              SH3                appessory (0.85 0.05)           R180
+U$2       SH3              SH3                appessory (0.85 1.45)           R0
+
+
+
+
+
